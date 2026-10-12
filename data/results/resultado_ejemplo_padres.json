@@ -1,0 +1,35 @@
+[
+    {
+        "fecha_analisis": "2026-10-12 12:30:59",
+        "padres": {
+            "padre": "A",
+            "madre": "O"
+        },
+        "resultados_descendencia": {
+            "A": 75.0,
+            "O": 25.0
+        }
+    },
+    {
+        "fecha_analisis": "2026-10-12 12:30:59",
+        "padres": {
+            "padre": "AB",
+            "madre": "B"
+        },
+        "resultados_descendencia": {
+            "A": 12.5,
+            "B": 50.0,
+            "AB": 37.5
+        }
+    },
+    {
+        "fecha_analisis": "2026-10-12 12:30:59",
+        "padres": {
+            "padre": "O",
+            "madre": "O"
+        },
+        "resultados_descendencia": {
+            "O": 100.0
+        }
+    }
+]
