@@ -101,7 +101,7 @@ class CalculadoraHerenciaSangre:
         )
         print("-" * 55)
         for grupo, porcentaje in self._porcentajes.items():
-            print(f"  • Grupo Sanguíneo {grupo}: {porcentaje}%")
+            print(f"Grupo Sanguíneo {grupo}: {porcentaje}%")
         print("-" * 55)
 
     def graficar_resultados(self):
